@@ -2,7 +2,7 @@ EAGLE CAD Design files for the VLF Remote Unit
 
 ## Photo
 
-[Remote Unit](Remote-Hardware.JPG)
+![Remote Unit](Remote-Hardware.JPG)
 
 ## Design Notes
 

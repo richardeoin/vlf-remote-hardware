@@ -12,7 +12,7 @@ Cortex-M0 microcontroller. A Wolfson
 [WM8737 ADC](http://www.wolfsonmicro.com/documents/uploads/data_sheets/en/WM8737.pdf)
 is used to record the Very Low Frequency (VLF) signals. Although this
 ADC is intended for audio applications it is perfectly adequate for
-very low frequency RF signal due to its high gain preamplifiers. It
+very low frequency RF signals due to its high gain preamplifiers. It
 features low power operation and easily available, probably due to it
 being
 [used in the Microsoft Kinect](http://techon.nikkeibp.co.jp/english/NEWS_EN/20101205/187927/).
